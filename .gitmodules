@@ -1,0 +1,3 @@
+[submodule "libfs"]
+	path = libfs
+	url = https://github.com/no-fs/libfs.git
